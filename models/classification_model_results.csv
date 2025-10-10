@@ -1,0 +1,4 @@
+Model,Best Macro F1 (CV),Best Accuracy (CV),Best Params
+Logistic Regression,0.9338317718083534,0.9326315789473684,"{'clf__C': 10, 'clf__penalty': 'l2'}"
+Support Vector Classifier,0.9278261726134559,0.927218045112782,"{'clf__C': 1, 'clf__gamma': 'scale', 'clf__kernel': 'linear'}"
+K-Nearest Neighbors,0.5288078021515028,0.5606015037593985,"{'clf__n_neighbors': 11, 'clf__weights': 'distance'}"

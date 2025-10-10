@@ -1,0 +1,4 @@
+Model,Macro F1-Score,Accuracy,Best Params
+Logistic Regression,0.9390485906313089,0.9421487603305785,"{'clf__C': 10, 'clf__penalty': 'l2'}"
+SVC,0.8394795347364976,0.8402203856749312,"{'clf__C': 10, 'clf__penalty': 'l2'}"
+KNN,0.5691763053856406,0.6143250688705234,"{'clf__C': 10, 'clf__penalty': 'l2'}"
