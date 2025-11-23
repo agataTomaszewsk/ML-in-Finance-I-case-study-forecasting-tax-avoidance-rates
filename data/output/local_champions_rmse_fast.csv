@@ -1,0 +1,8 @@
+Algorithm_Class,Best_Validation_RMSE,Best_Params
+CatBoost,0.14855294041356837,"{'learning_rate': 0.05, 'l2_leaf_reg': 3, 'iterations': 100, 'depth': 4}"
+AdaBoost,0.15071491299616543,"{'n_estimators': 100, 'loss': 'linear', 'learning_rate': 0.01}"
+XGBoost,0.15087620598289558,"{'subsample': 0.8, 'n_estimators': 100, 'max_depth': 3, 'learning_rate': 0.05, 'colsample_bytree': 0.8}"
+XGBoostLSS,0.15164382771875068,"{'num_boost_round': 100, 'max_depth': 3, 'eta': 0.05}"
+LightGBM,0.1517281184116012,"{'subsample': 0.8, 'num_leaves': 20, 'n_estimators': 100, 'learning_rate': 0.05}"
+GBM,0.15220830455665896,"{'subsample': 0.8, 'n_estimators': 100, 'max_depth': 3, 'learning_rate': 0.05}"
+HistGBM,0.15278530344940516,"{'max_leaf_nodes': 31, 'max_iter': 100, 'learning_rate': 0.05, 'l2_regularization': 0.0}"
